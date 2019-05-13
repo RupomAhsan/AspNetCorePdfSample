@@ -39,10 +39,10 @@ namespace AspNetCorePdfSample
 
             #region For PDF generation funcionality
             services.AddSingleton(typeof(IConverter), new SynchronizedConverter(new PdfTools()));
-            var processSufix = "x86";
+            var processSufix = "x86_bit";
             if (Environment.Is64BitProcess && IntPtr.Size == 8)
             {
-                processSufix = "x64";
+                processSufix = "x64_bit";
             }
 
             var context = new CustomAssemblyLoadContext();

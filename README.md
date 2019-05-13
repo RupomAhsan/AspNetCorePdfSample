@@ -1,42 +1,139 @@
 # Generate PDF document in ASP.Net Core 2.2 Web API with Razor View
 In this article we will show...
 - [Basic Project Setup](#basic-project-setup)
-- Add External Library (DinkToPdf, Razor Light)
-- Prepare dummy data for PDF Document
-- Design Razor View and ass external CSS (bootstrap)
-- Preview the VIEW before generate PDF
-- Show the PDF document to browser
-- Conclusion
-
-# Header1
-# Header2
-
-[[Link-name1|#Header1]]
-[Link-name2](#Header2)
-
-[Link-name2](#Header2)
-
-sdfsdfsdfffffffffffffffffff
-sdfs
-fsdf
-sdf
-sdf
-sdf
-sdf
-sdf
-
-##Title
-
-###Place 1
-
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
-
-###Place 2
-
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
-
+- [Add External Library (DinkToPdf, Razor Light)](#add-external-library)
+- [Prepare dummy data for PDF Document](#prepare-dummy-data-for-pdf-document)
+- [Design Razor View and ass external CSS (bootstrap)](#design-razor-view-and-ass-external-css)
+- [Preview the VIEW before generate PDF](#preview-the-view-before-generate-pdf)
+- [Show the PDF document to browser](#show-the-pdf-document-to-browser)
+- [Conclusion](#conclusion)
 
 ### Basic Project Setup
+hellow...
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Add External Library
 
 hellow...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Prepare dummy data for PDF Document
+
+hellow...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Design Razor View and ass external CSS
+
+hellow...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Preview the VIEW before generate PDF
+
+hellow...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Show the PDF document to browser
+
+hellow...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Conclusion
+
+hellow...
+
+
+
+
+
+
+
+

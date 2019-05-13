@@ -37,9 +37,4 @@ Place one has the fun times of linking here, but I can also link back [here](#pl
 
 
 ###Basic Project Setup
-Add External Library (DinkToPdf, Razor Light)
-- Prepare dummy data for PDF Document
-- Design Razor View and ass external CSS (bootstrap)
-- Preview the VIEW before generate PDF
-- Show the PDF document to browser
-- Conclusion
+hellow...
